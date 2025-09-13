@@ -1,1 +1,1 @@
-300 Children's Coding Exercises wit Python
+300 Children's Coding Exercises with Python
